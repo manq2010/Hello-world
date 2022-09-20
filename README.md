@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> In this project. a `Hello World` is setup. No complex coding is done as the focus is on mastering tools and best practices learnt in module 1 so far.
+> In this project. a `Hello World` repo is setup. No complex coding is done as the focus is on mastering tools and best practices learnt in module 1 so far.
 
 ## Built With
 
